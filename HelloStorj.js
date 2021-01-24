@@ -12,7 +12,7 @@ var BUFFER_SIZE = 80000;
 //demo Storj (V3) configuration
 var storjConfig = {
     apiKey    : "change-me-to-the-api-key-created-in-satellite-gui",
-    satelliteURL   : "us-central-1.tardigrade.io:7777",
+    satelliteURL   : "12EayRS2V1kEsWESU9QMRseFhdxYxKicsiFmxrsLZHeLUtdps3S@us-central-1.tardigrade.io:7777",
     encryptionPassphrase  : "you'll never guess this",
     bucketName   : "change-me-to-desired-bucket-name",
     uploadPath   : "optionalpath/requiredfilename",
